@@ -184,3 +184,5 @@ In order to keep to sane coding standards - aka the ones I prefer :) - please us
 [twodsix-foundryvtt]:             https://github.com/xdy/twodsix-foundryvtt
 [Node.js download page]:          https://nodejs.org/en/download
 [Foundry VTT website]:            https://foundryvtt.com
+
+<!-- Auto-update: 2025-10-16T12:24:58.887380 -->
